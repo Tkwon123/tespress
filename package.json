@@ -1,0 +1,22 @@
+{
+  "name": "tespress",
+  "version": "1.0.0",
+  "description": "test it out!",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tkwon123/tespress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tkwon123/tespress/issues"
+  },
+  "homepage": "https://github.com/Tkwon123/tespress#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
